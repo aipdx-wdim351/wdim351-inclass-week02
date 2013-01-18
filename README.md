@@ -1,4 +1,4 @@
-# Week 02 In Class Assignment
+## Week 02 In Class Assignment
 
 An interactive lesson in Git branching. Instructions here: http://www.rvl.io/illepic/wdim351_week02
 
@@ -12,7 +12,8 @@ On the line below your name, paste in the link to your personal GitHub page (loo
 
 Koppenhaver, Courtney
 
-https://github.com/aipdx-wdim351/wdim351-inclass-week02.git
+https://github.com/ckoppenhaver
+
 Loyer, Steven Patrick
 
 
@@ -46,6 +47,8 @@ Ferdinand, Brian Thomas
 https://github.com/bferdinand
 
 Leitz, Ryan Alan
+
+https://github.com/RyanLeitz
 
 Poirier-Pinto, Jace
 
