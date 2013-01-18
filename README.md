@@ -24,6 +24,8 @@ Riemensnider, Kyle Dean
 
 Trathen, Tracy Noel
 
+https://github.com/Tracy-Tra
+
 Bradner, Saira Alice
 
 Cagle, Nathaniel Lewis
@@ -31,7 +33,9 @@ Cagle, Nathaniel Lewis
 Carter, Marcus Allen
 
 Gerig, Tyler Jacob
+
 https://github.com/tylergerig
+
 Ferdinand, Brian Thomas
 
 https://github.com/bferdinand
