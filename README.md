@@ -32,9 +32,12 @@ Gerig, Tyler Jacob
 https://github.com/tylergerig
 Ferdinand, Brian Thomas
 
+https://github.com/bferdinand
+
 Leitz, Ryan Alan
 
 Poirier-Pinto, Jace
+
 https://github.com/JacePP/
 
 Johnecheck, Brandi Linn
