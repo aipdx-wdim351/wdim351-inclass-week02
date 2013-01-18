@@ -12,8 +12,13 @@ On the line below your name, paste in the link to your personal GitHub page (loo
 
 Koppenhaver, Courtney
 
+https://github.com/aipdx-wdim351/wdim351-inclass-week02.git
 Loyer, Steven Patrick
+
+
 https://github.com/sloyer
+
+
 Park, Chan Hwi
 
 Adams, Tory Jacob
@@ -45,7 +50,7 @@ https://github.com/RyanLeitz
 
 Poirier-Pinto, Jace
 
-https://github.com/JacePP/
+* https://github.com/JacePP/
 
 Johnecheck, Brandi Linn
 
