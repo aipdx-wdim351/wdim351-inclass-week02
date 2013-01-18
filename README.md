@@ -32,7 +32,9 @@ Cagle, Nathaniel Lewis
 Carter, Marcus Allen
 
 Gerig, Tyler Jacob
+
 https://github.com/tylergerig
+
 Ferdinand, Brian Thomas
 
 https://github.com/bferdinand
