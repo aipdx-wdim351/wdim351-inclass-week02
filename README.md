@@ -1,4 +1,4 @@
-# Week 02 In Class Assignment
+## Week 02 In Class Assignment
 
 An interactive lesson in Git branching. Instructions here: http://www.rvl.io/illepic/wdim351_week02
 
@@ -47,6 +47,8 @@ https://github.com/bferdinand
 
 Leitz, Ryan Alan
 
+https://github.com/RyanLeitz
+
 Poirier-Pinto, Jace
 
 * https://github.com/JacePP/
@@ -56,6 +58,8 @@ Johnecheck, Brandi Linn
 https://github.com/BrandiLinn
 
 Schuelke, Peter Charles
+
+https://github.com/peterschuelke
 
 Slayter, Miranda Jane
 
