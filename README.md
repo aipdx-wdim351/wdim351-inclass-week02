@@ -18,6 +18,7 @@ https://github.com/sloyer
 Park, Chan Hwi
 
 Adams, Tory Jacob
+
 github.com/Toryadams
 Riemensnider, Kyle Dean
 
@@ -42,6 +43,8 @@ Poirier-Pinto, Jace
 https://github.com/JacePP/
 
 Johnecheck, Brandi Linn
+
+https://github.com/BrandiLinn
 
 Schuelke, Peter Charles
 
