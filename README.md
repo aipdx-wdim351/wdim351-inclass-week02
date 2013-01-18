@@ -17,7 +17,7 @@ Loyer, Steven Patrick
 Park, Chan Hwi
 
 Adams, Tory Jacob
-
+github.com/Toryadams
 Riemensnider, Kyle Dean
 
 Trathen, Tracy Noel
@@ -37,6 +37,7 @@ Leitz, Ryan Alan
 https://github.com/RyanLeitz
 
 Poirier-Pinto, Jace
+https://github.com/JacePP/
 
 Johnecheck, Brandi Linn
 
