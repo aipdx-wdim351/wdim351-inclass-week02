@@ -14,7 +14,11 @@ Koppenhaver, Courtney
 
 https://github.com/aipdx-wdim351/wdim351-inclass-week02.git
 Loyer, Steven Patrick
+
+
 https://github.com/sloyer
+
+
 Park, Chan Hwi
 
 Adams, Tory Jacob
