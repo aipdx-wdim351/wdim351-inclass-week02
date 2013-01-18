@@ -16,9 +16,7 @@ https://github.com/ckoppenhaver
 
 Loyer, Steven Patrick
 
-
 https://github.com/sloyer
-
 
 Park, Chan Hwi
 
