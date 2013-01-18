@@ -13,11 +13,11 @@ On the line below your name, paste in the link to your personal GitHub page (loo
 Koppenhaver, Courtney
 
 Loyer, Steven Patrick
-
+https://github.com/sloyer
 Park, Chan Hwi
 
 Adams, Tory Jacob
-
+github.com/Toryadams
 Riemensnider, Kyle Dean
 
 Trathen, Tracy Noel
@@ -35,6 +35,7 @@ Ferdinand, Brian Thomas
 Leitz, Ryan Alan
 
 Poirier-Pinto, Jace
+https://github.com/JacePP/
 
 Johnecheck, Brandi Linn
 
@@ -43,7 +44,7 @@ Schuelke, Peter Charles
 Slayter, Miranda Jane
 
 Love, Jacob Reuben Samuel
-
+https://github.com/rockymountainhigh1943
 Meyers, Sarah Marie
 
 Waldriff, Nicole Marie
