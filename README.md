@@ -24,7 +24,7 @@ Park, Chan Hwi
 
 Adams, Tory Jacob
 
-github.com/Toryadams
+http://github.com/Toryadams
 
 Riemensnider, Kyle Dean
 
