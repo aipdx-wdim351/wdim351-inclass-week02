@@ -1,4 +1,4 @@
-# Week 02 In Class Assignment
+## Week 02 In Class Assignment
 
 An interactive lesson in Git branching. Instructions here: http://www.rvl.io/illepic/wdim351_week02
 
@@ -33,6 +33,8 @@ Gerig, Tyler Jacob
 Ferdinand, Brian Thomas
 
 Leitz, Ryan Alan
+
+https://github.com/RyanLeitz
 
 Poirier-Pinto, Jace
 
