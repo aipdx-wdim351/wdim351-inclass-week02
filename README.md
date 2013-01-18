@@ -30,7 +30,7 @@ Carter, Marcus Allen
 
 Gerig, Tyler Jacob
 
-Ferdinand, Brian Thomas
+Ferdinand, Brian Thomas https://github.com/bferdinand
 
 Leitz, Ryan Alan
 
