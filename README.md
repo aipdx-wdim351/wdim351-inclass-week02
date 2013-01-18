@@ -1,4 +1,4 @@
-# Week 02 In Class Assignment
+## Week 02 In Class Assignment
 
 An interactive lesson in Git branching. Instructions here: http://www.rvl.io/illepic/wdim351_week02
 
@@ -12,17 +12,27 @@ On the line below your name, paste in the link to your personal GitHub page (loo
 
 Koppenhaver, Courtney
 
+https://github.com/ckoppenhaver
+
 Loyer, Steven Patrick
+
+
 https://github.com/sloyer
+
+
 Park, Chan Hwi
 
 https://github.com/thesarcasm
 
 Adams, Tory Jacob
+
 github.com/Toryadams
+
 Riemensnider, Kyle Dean
 
 Trathen, Tracy Noel
+
+https://github.com/Tracy-Tra
 
 Bradner, Saira Alice
 
@@ -32,21 +42,34 @@ Carter, Marcus Allen
 
 Gerig, Tyler Jacob
 
+https://github.com/tylergerig
+
 Ferdinand, Brian Thomas
+
+https://github.com/bferdinand
 
 Leitz, Ryan Alan
 
+https://github.com/RyanLeitz
+
 Poirier-Pinto, Jace
-https://github.com/JacePP/
+
+* https://github.com/JacePP/
 
 Johnecheck, Brandi Linn
 
+https://github.com/BrandiLinn
+
 Schuelke, Peter Charles
+
+https://github.com/peterschuelke
 
 Slayter, Miranda Jane
 
 Love, Jacob Reuben Samuel
+
 https://github.com/rockymountainhigh1943
+
 Meyers, Sarah Marie
 
 Waldriff, Nicole Marie
