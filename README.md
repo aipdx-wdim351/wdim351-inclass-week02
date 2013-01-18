@@ -12,7 +12,8 @@ On the line below your name, paste in the link to your personal GitHub page (loo
 
 Koppenhaver, Courtney
 
-https://github.com/aipdx-wdim351/wdim351-inclass-week02.git
+https://github.com/ckoppenhaver
+
 Loyer, Steven Patrick
 
 
