@@ -13,7 +13,7 @@ On the line below your name, paste in the link to your personal GitHub page (loo
 Koppenhaver, Courtney
 https://github.com/aipdx-wdim351/wdim351-inclass-week02.git
 Loyer, Steven Patrick
-
+https://github.com/sloyer
 Park, Chan Hwi
 
 Adams, Tory Jacob
@@ -44,7 +44,7 @@ Schuelke, Peter Charles
 Slayter, Miranda Jane
 
 Love, Jacob Reuben Samuel
-
+https://github.com/rockymountainhigh1943
 Meyers, Sarah Marie
 
 Waldriff, Nicole Marie
