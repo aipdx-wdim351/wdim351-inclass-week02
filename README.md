@@ -12,8 +12,13 @@ On the line below your name, paste in the link to your personal GitHub page (loo
 
 Koppenhaver, Courtney
 
+https://github.com/aipdx-wdim351/wdim351-inclass-week02.git
 Loyer, Steven Patrick
+
+
 https://github.com/sloyer
+
+
 Park, Chan Hwi
 
 Adams, Tory Jacob
@@ -24,6 +29,8 @@ Riemensnider, Kyle Dean
 
 Trathen, Tracy Noel
 
+https://github.com/Tracy-Tra
+
 Bradner, Saira Alice
 
 Cagle, Nathaniel Lewis
@@ -31,7 +38,9 @@ Cagle, Nathaniel Lewis
 Carter, Marcus Allen
 
 Gerig, Tyler Jacob
+
 https://github.com/tylergerig
+
 Ferdinand, Brian Thomas
 
 https://github.com/bferdinand
@@ -40,9 +49,11 @@ Leitz, Ryan Alan
 
 Poirier-Pinto, Jace
 
-https://github.com/JacePP/
+* https://github.com/JacePP/
 
 Johnecheck, Brandi Linn
+
+https://github.com/BrandiLinn
 
 Schuelke, Peter Charles
 
