@@ -36,7 +36,7 @@ Leitz, Ryan Alan
 
 Poirier-Pinto, Jace
 
-https://github.com/JacePP/
+* https://github.com/JacePP/
 
 Johnecheck, Brandi Linn
 
