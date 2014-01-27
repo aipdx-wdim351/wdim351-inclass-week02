@@ -1,6 +1,6 @@
 ## Week 02 In Class Assignment
 
-An interactive lesson in Git branching. Instructions here: http://www.rvl.io/illepic/wdim351_week02
+An interactive lesson in Git branching. Instructions here: https://slid.es/illepic/wdim351_week02
 
 ## This was the class last week after Git training.
 
