@@ -2,7 +2,7 @@
 
 An interactive lesson in Git branching. Instructions here: https://slid.es/illepic/wdim351_week02
 
-## This was the class last week after Git training.
+## Welcome back to more Git training.
 
 ![Grumpy Cat](https://dl.dropbox.com/u/115284/wdim351/week02/tard.jpg "Tard")
 
@@ -10,68 +10,26 @@ An interactive lesson in Git branching. Instructions here: https://slid.es/illep
 
 On the line below your name, paste in the link to your personal GitHub page (looks like this: https://github.com/illepic).
 
-Koppenhaver, Courtney
+Allen, Christopher
 
-https://github.com/ckoppenhaver
+Barbier-Burk, Pablo
 
-Loyer, Steven Patrick
+Bradner, Saira
 
-https://github.com/sloyer
+Enojado, Kayla
 
-Park, Chan Hwi
+Escriva, Brandon
 
-https://github.com/thesarcasm
+Hanauska, James
 
-Adams, Tory Jacob
+Morgan, Zachary
 
-http://github.com/Toryadams
+Nguyen, Vy Ha
 
-Riemensnider, Kyle Dean
+Nuss, Jameson
 
-https://github.com/kyleriemensnider/
+Price, Kaori
 
-Trathen, Tracy Noel
+Ramirez, Cornelio
 
-https://github.com/Tracy-Tra
-
-Bradner, Saira Alice
-
-* https://github.com/saira91
-
-Cagle, Nathaniel Lewis
-
-Carter, Marcus Allen
-
-Gerig, Tyler Jacob
-
-https://github.com/tylergerig
-
-Ferdinand, Brian Thomas
-
-https://github.com/bferdinand
-
-Leitz, Ryan Alan
-
-https://github.com/RyanLeitz
-
-Poirier-Pinto, Jace
-
-* https://github.com/JacePP/
-
-Johnecheck, Brandi Linn
-
-https://github.com/BrandiLinn
-
-Schuelke, Peter Charles
-
-https://github.com/peterschuelke
-
-Slayter, Miranda Jane
-
-Love, Jacob Reuben Samuel
-
-https://github.com/rockymountainhigh1943
-
-Meyers, Sarah Marie
-
-Waldriff, Nicole Marie
+Thomas, Mark
