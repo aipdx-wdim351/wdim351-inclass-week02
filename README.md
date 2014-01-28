@@ -26,12 +26,26 @@ https://github.com/KayWatson
 Escriva, Brandon 
              https://github.com/z3v
 Hanauska, James
+<<<<<<< HEAD
+
+	https://github.com/jhanauska
+=======
 https://github.com/jhanauska
+>>>>>>> 2ee1aae160f680bf2d780fe1d14eb2253c42d589
 
 Morgan, Zachary
 https://github.com/zachmorgan
 
 Nguyen, Vy Ha
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+	https://github.com/greathug2u
+=======
+https://github.com/greathug2u
+>>>>>>> 13f1f7a6231744297f610c8c52ef60612223e8f0
+=======
+>>>>>>> 2ee1aae160f680bf2d780fe1d14eb2253c42d589
 
 	https://github.com/greathug2u
 
