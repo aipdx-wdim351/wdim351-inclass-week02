@@ -1,4 +1,4 @@
-## Week 02 In Class Assignment
+# Week 02 In Class Assignment
 
 An interactive lesson in Git branching. Instructions here: https://slid.es/illepic/wdim351_week02
 
@@ -23,8 +23,8 @@ Bradner, Saira
 Enojado, Kayla
 https://github.com/KayWatson
 
-Escriva, Brandon
-
+Escriva, Brandon 
+             https://github.com/z3v
 Hanauska, James
 https://github.com/jhanauska
 
@@ -32,11 +32,12 @@ Morgan, Zachary
 https://github.com/zachmorgan
 
 Nguyen, Vy Ha
-https://github.com/greathug2u
+
+	https://github.com/greathug2u
+
 
 Nuss, Jameson
-
-	https://github.com/jamesonnuss
+https://github.com/jamesonnuss
 
 Price, Kaori
 https://github.com/kaoriprice
