@@ -27,15 +27,22 @@ Hanauska, James
 	https://github.com/jhanauska
 
 Morgan, Zachary
-
+https://github.com/zachmorgan
 Nguyen, Vy Ha
+<<<<<<< HEAD
 
 	https://github.com/greathug2u
+=======
+https://github.com/greathug2u
+>>>>>>> 13f1f7a6231744297f610c8c52ef60612223e8f0
 
 Nuss, Jameson
+
+	https://github.com/jamesonnuss
 
 Price, Kaori
 
 Ramirez, Cornelio
 
 Thomas, Mark
+https://github.com/kprokken
