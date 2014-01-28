@@ -11,8 +11,8 @@ An interactive lesson in Git branching. Instructions here: https://slid.es/illep
 On the line below your name, paste in the link to your personal GitHub page (looks like this: https://github.com/illepic).
 
 Allen, Christopher
+https://github.com/ChristopherAllen
 
-	https://github.com/ChristopherAllen
 
 Barbier-Burks, Pablo
 
