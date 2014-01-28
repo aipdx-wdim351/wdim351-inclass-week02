@@ -37,6 +37,7 @@ Nuss, Jameson
 	https://github.com/jamesonnuss
 
 Price, Kaori
+https://github.com/kaoriprice
 
 Ramirez, Cornelio
 
