@@ -12,6 +12,8 @@ On the line below your name, paste in the link to your personal GitHub page (loo
 
 Allen, Christopher
 
+	https://github.com/ChristopherAllen
+
 Barbier-Burks, Pablo
 
 	https://github.com/svitz
