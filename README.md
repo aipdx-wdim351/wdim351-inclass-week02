@@ -23,11 +23,11 @@ Enojado, Kayla
 Escriva, Brandon
 
 Hanauska, James
-
+https://github.com/jhanauska
 Morgan, Zachary
 
 Nguyen, Vy Ha
-
+https://github.com/greathug2u
 Nuss, Jameson
 
 	https://github.com/jamesonnuss
