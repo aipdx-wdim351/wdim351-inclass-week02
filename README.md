@@ -30,6 +30,8 @@ Nguyen, Vy Ha
 
 Nuss, Jameson
 
+	https://github.com/jamesonnuss
+
 Price, Kaori
 
 Ramirez, Cornelio
