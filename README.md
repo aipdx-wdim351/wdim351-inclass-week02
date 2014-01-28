@@ -24,7 +24,7 @@ https://github.com/KayWatson
 Escriva, Brandon
 
 Hanauska, James
-
+https://github.com/jhanauska
 Morgan, Zachary
 
 Nguyen, Vy Ha
