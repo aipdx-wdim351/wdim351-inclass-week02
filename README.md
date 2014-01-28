@@ -31,8 +31,11 @@ Nguyen, Vy Ha
 https://github.com/greathug2u
 Nuss, Jameson
 
+	https://github.com/jamesonnuss
+
 Price, Kaori
 
 Ramirez, Cornelio
 
 Thomas, Mark
+https://github.com/kprokken
