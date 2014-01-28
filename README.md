@@ -35,8 +35,7 @@ Nguyen, Vy Ha
 
 
 Nuss, Jameson
-
-	https://github.com/jamesonnuss
+https://github.com/jamesonnuss
 
 Price, Kaori
 https://github.com/kaoriprice
