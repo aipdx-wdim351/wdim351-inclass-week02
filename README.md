@@ -12,8 +12,10 @@ On the line below your name, paste in the link to your personal GitHub page (loo
 
 Allen, Christopher
 
-Barbier-Burk, Pablo
+Barbier-Burks, Pablo
 
+	https://github.com/svitz
+	
 Bradner, Saira
 
 Enojado, Kayla
