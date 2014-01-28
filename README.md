@@ -24,10 +24,13 @@ Escriva, Brandon
 
 Hanauska, James
 https://github.com/jhanauska
+
 Morgan, Zachary
 https://github.com/zachmorgan
+
 Nguyen, Vy Ha
 https://github.com/greathug2u
+
 Nuss, Jameson
 
 	https://github.com/jamesonnuss
