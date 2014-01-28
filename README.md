@@ -19,16 +19,20 @@ Barbier-Burks, Pablo
 Bradner, Saira
 
 Enojado, Kayla
+https://github.com/KayWatson
 
 Escriva, Brandon
 
 Hanauska, James
-
+https://github.com/jhanauska
 Morgan, Zachary
-
+https://github.com/zachmorgan
 Nguyen, Vy Ha
+https://github.com/greathug2u
 
 Nuss, Jameson
+
+	https://github.com/jamesonnuss
 
 Price, Kaori
 https://github.com/kaoriprice
@@ -36,3 +40,4 @@ https://github.com/kaoriprice
 Ramirez, Cornelio
 
 Thomas, Mark
+https://github.com/kprokken
