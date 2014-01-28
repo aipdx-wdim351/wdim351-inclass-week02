@@ -33,8 +33,7 @@ Nguyen, Vy Ha
 https://github.com/greathug2u
 
 Nuss, Jameson
-
-	https://github.com/jamesonnuss
+https://github.com/jamesonnuss
 
 Price, Kaori
 https://github.com/kaoriprice
